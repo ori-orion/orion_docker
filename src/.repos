@@ -1,0 +1,67 @@
+repositories:
+  orion_task_level_planning:
+    type: git
+    url: git@github.com:ori-orion/orion_task_level_planning.git
+    version: noetic
+  caffe:
+    type: git
+    url: git@github.com:ori-orion/caffe.git
+    version: master
+  gpg:
+    type: git
+    url: git@github.com:ori-orion/gpg.git
+    version: master
+  orion_hsr:
+    type: git
+    url: git@github.com:ori-orion/orion_hsr.git
+    version: noetic
+  orion_speech_recognition:
+    type: git
+    url: git@github.com:ori-orion/orion_speech_recognition.git
+    version: noetic
+  orion_manipulation:
+    type: git
+    url: git@github.com:ori-orion/orion_manipulation.git
+    version: noetic
+  orion_semantic_map:
+    type: git
+    url: git@github.com:ori-orion/orion_semantic_map.git
+    version: noetic
+  orion_hsrb_manual:
+    type: git
+    url: git@github.com:ori-orion/orion_hsrb_manual.git
+    version: master
+  orion_recognition:
+    type: git
+    url: git@github.com:ori-orion/orion_recognition.git
+    version: noetic
+  orion_task_level_planning:
+    type: git
+    url: git@github.com:ori-orion/orion_task_level_planning.git
+    version: noetic
+  orion_actions:
+    type: git
+    url: git@github.com:ori-orion/orion_actions.git
+    version: noetic
+  gpd:
+    type: git
+    url: git@github.com:ori-orion/gpd.git
+    version: master
+  orion_topological:
+    type: git
+    url: git@github.com:ori-orion/orion_topological.git
+    version: noetic
+  orion_apps:
+    type: git
+    url: git@github.com:ori-orion/orion_apps.git
+    version: noetic
+  orion_documentation:
+    type: git
+    url: git@github.com:ori-orion/orion-documentation.git
+    version: main
+  orion_simulation:
+    type: git
+    url: git@github.com:ori-orion/orion_simulation.git
+    version: noetic
+    
+  
